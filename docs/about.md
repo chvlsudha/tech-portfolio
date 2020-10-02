@@ -3,14 +3,12 @@ id: about
 title: About
 ---
 
-I am Rosemary Wang, a developer advocate at HashiCorp.
-I like challenging problems in the cloud and watering my
-plants.
+I am Sudha Chellapilla, back end software developer with 15 years experince in designing, building and manitaining large scale applications
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Senior Software Engineering, Zulily
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+Sun Certified Java Developer
